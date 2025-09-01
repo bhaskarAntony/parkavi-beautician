@@ -58,20 +58,20 @@ const Contact = () => {
     {
       icon: <Phone className="w-6 h-6" />,
       title: t('phone'),
-      value: '+91 98765 43210',
-      href: 'tel:+919876543210'
+      value: '+91 9940939760',
+      href: 'tel:+919940939760'
     },
     {
       icon: <Mail className="w-6 h-6" />,
       title: t('email'),
-      value: 'parkavi.beautician@gmail.com',
-      href: 'mailto:parkavi.beautician@gmail.com'
+      value: 'parkavimakeupartist@gmail.com',
+      href: 'mailto:parkavimakeupartist@gmail.com'
     },
     {
       icon: <MapPin className="w-6 h-6" />,
       title: t('address'),
-      value: 'Anna Nagar, Chennai, Tamil Nadu 600040',
-      href: 'https://maps.google.com'
+      value: '116, Sub JailRoad, new pet, Krishnagiri , 635001',
+      href: 'https://maps.app.goo.gl/DXebqxRp84AxHtPb6'
     },
     {
       icon: <Clock className="w-6 h-6" />,
@@ -160,10 +160,7 @@ const Contact = () => {
               className="h-64 rounded-2xl overflow-hidden bg-gradient-to-br from-white/5 to-white/10 backdrop-blur-sm border border-white/10"
             >
               <div className="w-full h-full bg-gray-800 flex items-center justify-center">
-                <div className="text-center text-gray-400">
-                  <MapPin className="w-12 h-12 mx-auto mb-4" />
-                  <p>Interactive Map Coming Soon</p>
-                </div>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3895.020614964915!2d78.21951070855988!3d12.514792487709114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bac349375de6f99%3A0xea927c4afb66b22a!2s116%2C%20Sub%20Jail%20Rd%2C%20New%20Pet%2C%20Krishnagiri%2C%20Tamil%20Nadu%20635002!5e0!3m2!1sen!2sin!4v1756721345843!5m2!1sen!2sin" width="100%" height="100%"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
               </div>
             </motion.div>
           </motion.div>

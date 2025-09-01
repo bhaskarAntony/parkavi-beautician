@@ -56,7 +56,7 @@ app.post('/api/contact', async (req, res) => {
     // Send email notification
     const mailOptions = {
       from: 'bhaskarbabucm6@gmail.com',
-      to: 'bhaskarbabucm6@gmail.com',
+      to: 'parkavimakeupartist@gmail.com',
       subject: `New Contact Form Submission - ${name}`,
       html: `
         <h2>New Contact Form Submission</h2>
@@ -128,7 +128,7 @@ app.post('/api/bookings', async (req, res) => {
     // Send notification email to business
     const businessMailOptions = {
       from: "bhaskarbabucm6@gmail.com",
-      to: 'bhaskarbabucm6@gmail.com',
+      to: 'parkavimakeupartist@gmail.com',
       subject: `New Booking - ${bookingId}`,
       html: `
         <h2>New Booking Received</h2>

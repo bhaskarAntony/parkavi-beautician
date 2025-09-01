@@ -43,7 +43,7 @@ const About = () => {
           >
             <div className="relative rounded-2xl overflow-hidden">
               <img
-                src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.jpeg?auto=compress&cs=tinysrgb&w=600"
+                src="https://content.jdmagicbox.com/comp/pali-rajasthan/s6/9999p2932.2932.180808162024.i7s6/catalogue/seasons-beauty-salon-pali-city-pali-rajasthan-salons-hs4rgrywth.jpg"
                 alt="Parkavi - Professional Makeup Artist"
                 className="w-full h-96 object-cover"
               />

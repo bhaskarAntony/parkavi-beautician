@@ -17,42 +17,42 @@ const Gallery = () => {
   const galleryImages = [
     {
       id: 1,
-      src: 'https://images.pexels.com/photos/3992656/pexels-photo-3992656.jpeg?auto=compress&cs=tinysrgb&w=800',
+      src: 'https://cdn.pixabay.com/photo/2021/04/12/08/19/bride-6171757_1280.jpg',
       category: 'bridal',
       title: 'Traditional Bridal Look',
       description: 'Elegant traditional bridal makeup with gold accents'
     },
     {
       id: 2,
-      src: 'https://images.pexels.com/photos/3985062/pexels-photo-3985062.jpeg?auto=compress&cs=tinysrgb&w=800',
+      src: 'https://media.istockphoto.com/id/1336649728/photo/beautiful-traditional-indian-bride-getting-ready-for-her-wedding-day-by-makeup-artist.webp?b=1&s=612x612&w=0&k=20&c=cv8w0lJFMuHqj6YoFp1QkGKwB0Ns0mOR_McFwqDneMw=',
       category: 'engagement',
       title: 'Soft Engagement Glam',
       description: 'Subtle and elegant engagement makeup'
     },
     {
       id: 3,
-      src: 'https://images.pexels.com/photos/3762806/pexels-photo-3762806.jpeg?auto=compress&cs=tinysrgb&w=800',
+      src: 'https://cdn.pixabay.com/photo/2017/07/25/10/36/beauty-2537562_1280.jpg',
       category: 'party',
       title: 'Glamorous Party Look',
       description: 'Bold and beautiful party makeup'
     },
     {
       id: 4,
-      src: 'https://images.pexels.com/photos/3985063/pexels-photo-3985063.jpeg?auto=compress&cs=tinysrgb&w=800',
+      src: 'https://cdn.pixabay.com/photo/2023/09/12/11/02/ai-generated-8248592_1280.jpg',
       category: 'traditional',
       title: 'Cultural Traditional Style',
       description: 'Authentic traditional makeup for cultural events'
     },
     {
       id: 5,
-      src: 'https://images.pexels.com/photos/3992643/pexels-photo-3992643.jpeg?auto=compress&cs=tinysrgb&w=800',
+      src: 'https://cdn.pixabay.com/photo/2022/07/16/08/54/bride-7324810_1280.jpg',
       category: 'bridal',
       title: 'Modern Bridal Elegance',
       description: 'Contemporary bridal makeup with modern techniques'
     },
     {
       id: 6,
-      src: 'https://images.pexels.com/photos/3985060/pexels-photo-3985060.jpeg?auto=compress&cs=tinysrgb&w=800',
+      src: 'https://cdn.pixabay.com/photo/2021/08/11/17/02/bride-6538973_1280.jpg',
       category: 'party',
       title: 'Evening Party Glam',
       description: 'Sophisticated evening party makeup'

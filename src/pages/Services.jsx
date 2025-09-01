@@ -13,7 +13,7 @@ const Services = ({ onBookingClick }) => {
       title: t('bridalMakeup'),
       price: '₹15,000 - ₹25,000',
       duration: '3-4 Hours',
-      image: 'https://images.pexels.com/photos/3992656/pexels-photo-3992656.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://cdn.pixabay.com/photo/2021/04/12/08/19/bride-6171757_1280.jpg',
       features: [
         'Complete bridal transformation',
         'Hair styling included',
@@ -30,7 +30,7 @@ const Services = ({ onBookingClick }) => {
       title: t('engagementMakeup'),
       price: '₹8,000 - ₹12,000',
       duration: '2-3 Hours',
-      image: 'https://images.pexels.com/photos/3985062/pexels-photo-3985062.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://media.istockphoto.com/id/1336649728/photo/beautiful-traditional-indian-bride-getting-ready-for-her-wedding-day-by-makeup-artist.webp?b=1&s=612x612&w=0&k=20&c=cv8w0lJFMuHqj6YoFp1QkGKwB0Ns0mOR_McFwqDneMw=',
       features: [
         'Elegant engagement look',
         'Soft glam techniques',
@@ -47,7 +47,7 @@ const Services = ({ onBookingClick }) => {
       title: t('partyMakeup'),
       price: '₹5,000 - ₹8,000',
       duration: '1-2 Hours',
-      image: 'https://images.pexels.com/photos/3762806/pexels-photo-3762806.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://cdn.pixabay.com/photo/2017/07/25/10/36/beauty-2537562_1280.jpg',
       features: [
         'Glamorous party look',
         'Bold or subtle options',
@@ -64,7 +64,7 @@ const Services = ({ onBookingClick }) => {
       title: t('traditionalMakeup'),
       price: '₹10,000 - ₹18,000',
       duration: '2-3 Hours',
-      image: 'https://images.pexels.com/photos/3985063/pexels-photo-3985063.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: 'https://cdn.pixabay.com/photo/2023/09/12/11/02/ai-generated-8248592_1280.jpg',
       features: [
         'Authentic traditional styles',
         'Cultural makeup expertise',

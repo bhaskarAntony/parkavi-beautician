@@ -76,7 +76,7 @@ const Home = ({ onBookingClick }) => {
               <motion.a
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                href="tel:+919876543210"
+                href="tel:+919940939760"
                 className="px-8 py-4 border-2 border-white/30 text-white rounded-full font-semibold text-lg hover:bg-white/10 transition-all duration-200 flex items-center justify-center space-x-2"
               >
                 <Phone size={20} />

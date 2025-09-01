@@ -63,15 +63,15 @@ const Footer = () => {
             <div className="space-y-3">
               <a href="tel:+919876543210" className="flex items-center space-x-3 text-gray-300 hover:text-pink-400 transition-colors">
                 <Phone size={16} />
-                <span>+91 98765 43210</span>
+                <span>+91 99409 39760</span>
               </a>
               <a href="mailto:parkavi.beautician@gmail.com" className="flex items-center space-x-3 text-gray-300 hover:text-pink-400 transition-colors">
                 <Mail size={16} />
-                <span>parkavi.beautician@gmail.com</span>
+                <span>parkavimakeupartist@gmail.com</span>
               </a>
               <div className="flex items-start space-x-3 text-gray-300">
                 <MapPin size={16} className="mt-1" />
-                <span>Anna Nagar, Chennai, Tamil Nadu 600040</span>
+                <span>116, Sub JailRoad, new pet, Krishnagiri , 635001</span>
               </div>
             </div>
           </div>

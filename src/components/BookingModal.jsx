@@ -44,7 +44,7 @@ const BookingModal = ({ isOpen, onClose }) => {
     setIsSubmitting(true);
 
     try {
-      const response = await fetch('/api/bookings', {
+      const response = await fetch('https://parkavi-beautician-backend.onrender.com/api/bookings', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
